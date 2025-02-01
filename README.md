@@ -47,3 +47,6 @@ You can then trigger the following actions:
 3. Enter a **New Filename** to rename all files.
 4. Set an **Edge Density Threshold** to filter blurry images.
 5. Click on the buttons to perform the tasks.
+
+### Acknowledgments: 
+- Blurry image detection technique (calculate_edge_density function) copied from https://github.com/AsaTyr2018/Simplified-ScreenCapper-Pro
