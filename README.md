@@ -24,7 +24,7 @@ This app only uses standard Python Libraries, so there is no need to install any
    git clone https://github.com/citronlegacy/Dataset-Quick-Tools.git
 2. Run the app:
    ```bash
-   python app.py
+   python Dataset_Quick_Tools.py
 
 ### Usage:
 
